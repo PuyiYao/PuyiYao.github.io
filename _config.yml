@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Puyi Yao's Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "1w_small.jpg"
   name             : "Puyi Yao"
   pronouns         : # example: "she/her"  
-  bio              : "A graduate student studying at Beijing University of Posts and Telecommunications"
-  location         : "BeiJing"
+  bio              : "A beginner in collaborative perception"
+  location         : "China BeiJing"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "yaopuyi@bupt.edu.cn" 
