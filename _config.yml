@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1w.jpg"
   name             : "Puyi Yao"
   pronouns         : # example: "she/her"  
   bio              : "A graduate student studying at Beijing University of Posts and Telecommunications"
