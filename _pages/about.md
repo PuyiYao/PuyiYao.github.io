@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 Hello, I am a graduate student at Beijing University of Posts and Telecommunications (BUPT). Welcome to my homepage!
-My research interest includes computer vision, machine learning,object detection and collaborative perception.
+My research interest includes computer vision, machine learning, object detection and collaborative perception.
